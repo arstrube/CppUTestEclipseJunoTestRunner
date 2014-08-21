@@ -5,7 +5,9 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="test"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-	<classpathentry exported="true" kind="lib" path="C:/data/00_Dev/65_Java/Commons-IO/commons-io-2.4-bin.zip"/>
-	<classpathentry kind="lib" path="C:/data/00_Dev/65_Java/Mockito/mockito-all-1.9.5.jar"/>
+	<classpathentry kind="lib" path="../../../65_Java/Commons-IO/commons-io-2.4-bin.zip"/>
+	<classpathentry kind="lib" path="../../../65_Java/Mockito/mockito-all-1.9.5.jar"/>
+	<classpathentry kind="lib" path="../../cdt.testrunner/org.eclipse.cdt.testsrunner.source_7.0.0.201402142303.jar"/>
+	<classpathentry kind="lib" path="../../cdt.testrunner/org.eclipse.cdt.testsrunner_7.0.0.201402142303.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
