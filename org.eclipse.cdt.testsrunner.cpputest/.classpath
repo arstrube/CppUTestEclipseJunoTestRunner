@@ -9,5 +9,7 @@
 	<classpathentry kind="lib" path="../../../65_Java/Mockito/mockito-all-1.9.5.jar"/>
 	<classpathentry kind="lib" path="../../cdt.testrunner/org.eclipse.cdt.testsrunner.source_7.0.0.201402142303.jar"/>
 	<classpathentry kind="lib" path="../../cdt.testrunner/org.eclipse.cdt.testsrunner_7.0.0.201402142303.jar"/>
+	<classpathentry kind="lib" path="../../cdt.testrunner/org.eclipse.osgi-3.2.2.jar"/>
+	<classpathentry kind="lib" path="../../cdt.testrunner/org.eclipse.core.runtime-3.1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
